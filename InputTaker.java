@@ -14,5 +14,19 @@ float var=sc.nextInt();
     float var=sc.nextInt();
         return var;
        }
+    // this is  input for pattern
+
+    public int myRow(){
+      int var;
+      System.out.println("Enter the row size:");
+      var=sc.nextInt();
+        return  var;
+    }
+    public int myCol(){
+        int var;
+        System.out.println("Enter the col size:");
+        var=sc.nextInt();
+          return  var;
+      }
    
 }
