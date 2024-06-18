@@ -26,7 +26,7 @@ public class ConditionalStatement {
         
         myCal obj=new myCal();
         InputTaker inp=new InputTaker();
-        int var=1;
+        int var=1;  
         while(var!=0){
             System.out.println("Enter your choice");
             obj.Menu();

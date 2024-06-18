@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 
+// this class is maily i declare for input taker in overall my program 
 public class InputTaker {
     Scanner sc=new Scanner(System.in);
    public float firstNumber(){
